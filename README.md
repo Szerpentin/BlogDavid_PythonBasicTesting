@@ -1,0 +1,1 @@
+This repo is created for this blog post: https://blog.davidbollobas.hu/2022/10/21/basic-testing-in-python-using-pytest/
